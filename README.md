@@ -30,7 +30,7 @@ See tracker.png.
 ### Links
 
 - 🔗 Solution URL: [GitHub Repository](https://github.com/yourusername/ip-address-tracker)
-- 🌐 Live Site URL: [Live Demo](ip-address-tracker-pi-ebon.vercel.app)
+- 🌐 Live Site URL: [Live Demo](https://vercel.com/callmesophiiis-projects/ip-address-tracker)
 
 ### 🛠️ Tech Stack
 
