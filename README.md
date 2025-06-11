@@ -26,7 +26,8 @@ The IP Address Tracker is a React and TypeScript web app that allows users to lo
 
 ### Screenshot
 
-![App Screenshot](./images/tracker.png)
+![App Screenshot]![App Screenshot](https://raw.githubusercontent.com/callmesophiii/ip-address-tracker/main/images/tracker.png)
+
 
 ### Links
 
