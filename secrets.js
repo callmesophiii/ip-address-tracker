@@ -1,6 +1,9 @@
 import { API_KEY } from "./secrets.js";
 // console.log(API_KEY);
 
+export const API_KEY = "at_QJQE64GlJkDvl2C5bGWzHR7NNM5bD";
+
+
 const ipAddress = "8.8.8.8"; // google's ip address for testing
 const domain = "www.perscholas.org"; // perscholas's domain for testing
 

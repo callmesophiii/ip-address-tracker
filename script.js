@@ -12,6 +12,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let marker = L.marker([0, 0]).addTo(map);
 
 const API_KEY = "at_QJQE64GlJkDvl2C5bGWzHR7NNM5bD";
+import { API_KEY } from "./secrets.js";
+
 
 async function getIPData(query = '') {
   const url = `https://geo.ipify.org/api/v2/country,city?apiKey=${API_KEY}${query ? `&ipAddress=${query}` : ''}`;
